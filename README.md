@@ -1,4 +1,4 @@
-My notes and learnings from the book "Causal Inference in Python" by Matheus Facure
+My notes and learnings from the books "Causal Inference in Python" by Matheus Facure and "Causal Inference for Data Science"
 
 ### Context
 
